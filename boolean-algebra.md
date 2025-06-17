@@ -1,3 +1,2 @@
-# boolean algebra
-
-Start writing your content here...
+# Topic 1
+$A+B = C$
